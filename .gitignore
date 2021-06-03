@@ -1,0 +1,11 @@
+.env
+/node_modules
+/build
+/dist
+/.parcel-cache
+yarn.lock
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

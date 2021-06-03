@@ -1,0 +1,12 @@
+{
+  "name": "zurrey-web",
+  "dependencies": {
+    "vue": "3",
+    "vue-router-dom": "^1.0.0-beta.1"
+  },
+  "devDependencies": {
+    "@vue/babel-plugin-jsx": "^1.0.6",
+    "parcel": "^2.0.0-beta.2"
+  },
+  "version": "0.0.0"
+}
