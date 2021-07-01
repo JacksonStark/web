@@ -1,5 +1,12 @@
 {
   "name": "zurrey-web",
+  "homepage": "https://github.com/bluepuppetcompany/web",
+  "license": "MIT",
+  "author": {
+    "name": "Joseph Choe",
+    "email": "joseph@josephchoe.com",
+    "url": "https://josephchoe.com"
+  },
   "dependencies": {
     "uuid": "^8.3.2",
     "vue": "3",
